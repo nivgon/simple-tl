@@ -1,2 +1,2 @@
 # simple-tl
-simple trendline writen 
+simple-tl is a small single-page website for drawing a trendline through your data. Type your x and y values into a table, or paste them straight from a spreadsheet, and the chart updates as you type. It fits a linear, quadratic or exponential trend, then shows the equation, the slope, the r² value and the number of points. You can enter an x value to get a predicted y, set the minimum and maximum of each axis, and name the axes. The chart can be saved as a PNG.
